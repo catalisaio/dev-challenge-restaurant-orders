@@ -19,18 +19,15 @@
     - Implemente uma funcionalidade para adicionar, remover ou alterar itens no menu do restaurante.
     - Cada item do menu deve ter um nome, descrição, preço e disponibilidade.
 
-4. **Atualizações de Status**
-    - Implemente funcionalidades para atualizar o status de um pedido (por exemplo, de "pendente" para "em preparação").
-
-5. **Testes**
+4. **Testes**
     - Escreva testes unitários para as funcionalidades implementadas.
 
-6. **Banco de Dados**
+5. **Banco de Dados**
     - Utilize um banco de dados de sua escolha.
     - Se optar por um banco de dados relacional, implemente "migrations" para a inicialização do banco de dados.
 
 #### Critérios de Avaliação:
 
-- Qualidade do código (organização, padrões de projeto).
-- Cobertura e completude dos testes.
-- Documentação do projeto.
+- Qualidade do código.
+- Testes unitários.
+- Documentação de como executar o projeto.
